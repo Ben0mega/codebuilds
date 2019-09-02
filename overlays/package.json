@@ -31,6 +31,7 @@
     "gc-signals": "^0.0.1",
     "getmac": "1.4.1",
     "graceful-fs": "4.1.11",
+    "gulp-gzip": "^1.4.2",
     "http-proxy-agent": "^2.1.0",
     "https-proxy-agent": "^2.2.1",
     "iconv-lite": "0.4.23",
